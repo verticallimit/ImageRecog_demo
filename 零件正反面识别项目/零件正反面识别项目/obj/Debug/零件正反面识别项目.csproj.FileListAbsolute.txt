@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2008\Projects\零件正反面识别项目\零件正反面识别项目\bin\Debug\零件正反面识别项目.exe
+D:\Documents\Visual Studio 2008\Projects\零件正反面识别项目\零件正反面识别项目\bin\Debug\零件正反面识别项目.pdb
+D:\Documents\Visual Studio 2008\Projects\零件正反面识别项目\零件正反面识别项目\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\零件正反面识别项目\零件正反面识别项目\obj\Debug\零件正反面识别项目.Form1.resources
+D:\Documents\Visual Studio 2008\Projects\零件正反面识别项目\零件正反面识别项目\obj\Debug\零件正反面识别项目.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\零件正反面识别项目\零件正反面识别项目\obj\Debug\零件正反面识别项目.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\零件正反面识别项目\零件正反面识别项目\obj\Debug\零件正反面识别项目.exe
+D:\Documents\Visual Studio 2008\Projects\零件正反面识别项目\零件正反面识别项目\obj\Debug\零件正反面识别项目.pdb
